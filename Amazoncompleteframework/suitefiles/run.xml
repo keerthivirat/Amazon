@@ -1,0 +1,9 @@
+<suite name="Amazon">
+    <test name="amazonlogintestcase">
+        <classes>
+            <class name="product_page_test_case">
+
+            </class>
+        </classes>
+    </test>
+</suite>
